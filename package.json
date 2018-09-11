@@ -11,7 +11,7 @@
     "notify"
   ],
   "author": "Jesús Otero <hello@jesusoterogomez.com>",
-  "main": "bin/notify.js",
+  "main": "src/notify.jsx",
   "license": "MIT",
   "scripts": {
     "lint": "eslint src/",
